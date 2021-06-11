@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @KeaterCai
 - 👀 I’m insteresting in SLAM
 - 🌱 I’m currently studying mechanical engineering as an undergraduate. (Ein Bachelor mit dem Fach Maschinenbau)
-- 📫 You can reached me at youke.explore@yandex.com
+- 📫 You can reach me at youke.explore@yandex.com
 - 📖 I speak English, German and Chinese
  
 <!---
